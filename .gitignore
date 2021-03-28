@@ -76,6 +76,27 @@ _[Ss]cripts
 /Faberge.Web/App_Data/DefaultConnection_log.ldf
 /Faberge.Web/App_Data/DefaultConnection.mdf
 
+*.csproj.user
+samples/client/petstore/csharp/SwaggerClient/IO.Swagger.userprefs
+samples/client/petstore/csharp/SwaggerClientTest/.vs
+samples/client/petstore/csharp/SwaggerClientTest/obj
+samples/client/petstore/csharp/SwaggerClientTest/bin
+samples/client/petstore/csharp/SwaggerClientTest/packages
+samples/client/petstore/csharp/SwaggerClientTest/bin/Debug/
+samples/client/petstore/csharp/SwaggerClientTest/obj/Debug/
+samples/client/petstore/csharp/SwaggerClientTest/TestResult.xml
+samples/client/petstore/csharp/SwaggerClientTest/nuget.exe
+samples/client/petstore/csharp/SwaggerClientTest/testrunner/
+samples/client/petstore/csharp/SwaggerClient/.vs
+samples/client/petstore/csharp/SwaggerClient/nuget.exe
+samples/client/petstore/csharp/SwaggerClient/obj
+samples/client/petstore/csharp/SwaggerClient/bin
+samples/client/petstore/csharp/SwaggerClient/obj/Debug/
+samples/client/petstore/csharp/SwaggerClient/bin/Debug/
+samples/client/petstore/csharp/SwaggerClient/packages
+samples/client/petstore/csharp/SwaggerClient/TestResult.xml
+samples/client/petstore/csharp/SwaggerClientWithPropertyChanged/IO.Swagger.userprefs
+
 
 ## Ignore Umbraco files/folders generated for each instance
 ##
